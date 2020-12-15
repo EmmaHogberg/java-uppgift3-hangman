@@ -195,6 +195,7 @@ public class Main {
 
                 // The player get to choose a word and this word replaces the original word
                 case "d" -> {
+                    guessesLeft = 8;
                     System.out.println("Skriv det ord som du vill att spelet ska använda: ");
                     String playersWord = reader.nextLine();
                     getWordToArrays(playersWord);
