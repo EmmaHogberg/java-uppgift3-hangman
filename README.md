@@ -1,6 +1,9 @@
 # java-uppgift3-save-the-rabbit
 My own version of hangman; Save the Rabbit from sinking down in to the ground by typing the right word
 
+![Skärmbild 2021-11-06 234615](https://user-images.githubusercontent.com/70634183/140625976-883ddc93-d298-431e-8aef-80f3cff2e4c7.jpg)
+
+![Skärmbild 2021-11-06 234745](https://user-images.githubusercontent.com/70634183/140625975-b8b751d9-79de-4310-9e36-7828c1d18e56.jpg)
 
 ### I uppgift Hangman (Hänga gubbe), så skall ni skapa spelet Hangman.
 Ni behöver minst ha en form av meny där spelaren kan välja följande:
